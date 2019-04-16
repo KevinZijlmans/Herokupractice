@@ -1,7 +1,6 @@
 {
   "name": "sqlthings",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
     "body-parser": "^1.18.3",
@@ -11,8 +10,17 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinZijlmans/Herokupractice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KevinZijlmans/Herokupractice/issues"
+  },
+  "homepage": "https://github.com/KevinZijlmans/Herokupractice#readme",
+  "description": ""
 }
